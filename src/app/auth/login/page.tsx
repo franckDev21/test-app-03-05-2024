@@ -4,7 +4,7 @@ import React from 'react'
 
 const Auth: NextPage = () => {
   return (
-    <LoginForm />
+    <LoginForm /> 
   )
 }
 
